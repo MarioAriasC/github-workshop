@@ -1,6 +1,6 @@
 # github-workshop
-[x] ???
-* foo
-* bar
-* baz
-* one
+* something
+* another thing
+* another thing
+* another thing
+
